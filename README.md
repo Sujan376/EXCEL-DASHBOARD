@@ -1,2 +1,2 @@
 # EXCEL-DASHBOARD
-Idlicious data analysis
+Idlicious data analysis dashboard
